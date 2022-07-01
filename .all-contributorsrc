@@ -1,5 +1,5 @@
 {
-  "projectName": "Knapsack Problem Solving",
+  "projectName": "KnapSackProblemSolving",
   "projectOwner": "yuanjie8629",
   "repoType": "github",
   "repoHost": "https://github.com",
@@ -20,30 +20,6 @@
         "doc",
         "ideas",
         "infra",
-        "test"
-      ]
-    },
-    {
-      "login": "lwleo02",
-      "name": "lwleo02",
-      "avatar_url": "https://avatars.githubusercontent.com/u/86616877?v=4",
-      "profile": "https://github.com/lwleo02",
-      "contributions": [
-        "code",
-        "doc",
-        "ideas",
-        "test"
-      ]
-    },
-    {
-      "login": "Kai411",
-      "name": "kaii411",
-      "avatar_url": "https://avatars.githubusercontent.com/u/51218403?v=4",
-      "profile": "https://github.com/Kai411",
-      "contributions": [
-        "code",
-        "doc",
-        "ideas",
         "test"
       ]
     }

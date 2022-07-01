@@ -1,6 +1,6 @@
 # KnapsackProblemSolving
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Overview
@@ -50,17 +50,17 @@ Manual testing has been performed.
 2. Brute Force <br> <img src="previews/BruteForce.png"><br><br>
 3. Dynamic Programming <br> <img src="previews/DynamicProgramming.png"><br><br>
 
-## Contributors
-1. Lean Wei Liang (Dynamic Programming)
-2. Seow Kai Sheng (Brute Force)
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/yuanjie8629"><img src="https://avatars.githubusercontent.com/u/86699785?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tan Yuan Jie</b></sub></a><br /><a href="https://github.com/yuanjie8629/Knapsack Problem Solving/commits?author=yuanjie8629" title="Code">💻</a> <a href="https://github.com/yuanjie8629/Knapsack Problem Solving/commits?author=yuanjie8629" title="Documentation">📖</a> <a href="#ideas-yuanjie8629" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-yuanjie8629" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/yuanjie8629/Knapsack Problem Solving/commits?author=yuanjie8629" title="Tests">⚠️</a></td>
-    <td align="center"><a href="https://github.com/lwleo02"><img src="https://avatars.githubusercontent.com/u/86616877?v=4?s=100" width="100px;" alt=""/><br /><sub><b>lwleo02</b></sub></a><br /><a href="https://github.com/yuanjie8629/Knapsack Problem Solving/commits?author=lwleo02" title="Code">💻</a> <a href="https://github.com/yuanjie8629/Knapsack Problem Solving/commits?author=lwleo02" title="Documentation">📖</a> <a href="#ideas-lwleo02" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/yuanjie8629/Knapsack Problem Solving/commits?author=lwleo02" title="Tests">⚠️</a></td>
-    <td align="center"><a href="https://github.com/Kai411"><img src="https://avatars.githubusercontent.com/u/51218403?v=4?s=100" width="100px;" alt=""/><br /><sub><b>kaii411</b></sub></a><br /><a href="https://github.com/yuanjie8629/Knapsack Problem Solving/commits?author=Kai411" title="Code">💻</a> <a href="https://github.com/yuanjie8629/Knapsack Problem Solving/commits?author=Kai411" title="Documentation">📖</a> <a href="#ideas-Kai411" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/yuanjie8629/Knapsack Problem Solving/commits?author=Kai411" title="Tests">⚠️</a></td>
+    <td align="center"><a href="https://github.com/yuanjie8629"><img src="https://avatars.githubusercontent.com/u/86699785?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tan Yuan Jie</b></sub></a><br /><a href="https://github.com/yuanjie8629/KnapSackProblemSolving/commits?author=yuanjie8629" title="Code">💻</a> <a href="https://github.com/yuanjie8629/KnapSackProblemSolving/commits?author=yuanjie8629" title="Documentation">📖</a> <a href="#ideas-yuanjie8629" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-yuanjie8629" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/yuanjie8629/KnapSackProblemSolving/commits?author=yuanjie8629" title="Tests">⚠️</a></td>
   </tr>
 </table>
 
@@ -68,4 +68,5 @@ Manual testing has been performed.
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-3. Tan Yuan Jie (Branch and Bound)
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
