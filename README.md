@@ -1,4 +1,7 @@
 # KnapsackProblemSolving
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Overview
 This project contains three algorithms to solve 0-1 knapsack problems. The algorithm includes:<br>
@@ -50,4 +53,17 @@ Manual testing has been performed.
 ## Contributors
 1. Lean Wei Liang (Dynamic Programming)
 2. Seow Kai Sheng (Brute Force)
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/yuanjie8629"><img src="https://avatars.githubusercontent.com/u/86699785?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tan Yuan Jie</b></sub></a><br /><a href="https://github.com/yuanjie8629/Knapsack Problem Solving/commits?author=yuanjie8629" title="Code">💻</a> <a href="https://github.com/yuanjie8629/Knapsack Problem Solving/commits?author=yuanjie8629" title="Documentation">📖</a> <a href="#ideas-yuanjie8629" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-yuanjie8629" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/yuanjie8629/Knapsack Problem Solving/commits?author=yuanjie8629" title="Tests">⚠️</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 3. Tan Yuan Jie (Branch and Bound)
